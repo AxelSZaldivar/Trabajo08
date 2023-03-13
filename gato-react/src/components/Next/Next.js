@@ -1,6 +1,5 @@
 import Square from "../Square/Square";
 import './Next.css';
-import classNames from 'classnames';
 
 const Next = ({turn}) =>{
     var txt = "Turno de: "
